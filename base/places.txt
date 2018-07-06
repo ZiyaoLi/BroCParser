@@ -1,0 +1,298 @@
+'cheaha mountain'
+'gulf of mexico'
+'mount mckinley'
+'pacific ocean'
+'humphreys peak'
+'magazine mountain'
+'mount whitney'
+'death valley'
+'mount elbert'
+'mount frissell'
+'long island sound'
+centerville
+'atlantic ocean'
+tenleytown
+'walton county'
+'atlantic ocean'
+'brasstown bald'
+'atlantic ocean'
+'mauna kea'
+'pacific ocean'
+'borah peak'
+'charles mound'
+'franklin township'
+'ocheyedan mound'
+'mount sunflower'
+'black mountain'
+'driskill mountain'
+'new orleans'
+'mount katahdin'
+'atlantic ocean'
+'backbone mountain'
+'atlantic ocean'
+'mount greylock'
+'atlantic ocean'
+'mount curwood'
+'lake erie'
+'eagle mountain'
+'lake superior'
+'woodall mountain'
+'gulf of mexico'
+'taum sauk mountain'
+'granite peak'
+'johnson township'
+'southeast corner'
+'boundary peak'
+'mount washington'
+'atlantic ocean'
+'high point'
+'atlantic ocean'
+'wheeler peak'
+'red bluff reservoir'
+'mount marcy'
+'atlantic ocean'
+'mount mitchell'
+'atlantic ocean'
+'white butte'
+'campbell hill'
+'black mesa'
+'mount hood'
+'pacific ocean'
+'mount davis'
+'jerimoth hill'
+'atlantic ocean'
+'sassafras mountain'
+'atlantic ocean'
+'harney peak'
+'big stone lake'
+'clingmans dome'
+'guadalupe peak'
+'gulf of mexico'
+'kings peak'
+'beaver dam creek'
+'mount mansfield'
+'lake champlain'
+'mount rogers'
+'atlantic ocean'
+'mount rainier'
+'pacific ocean'
+'spruce knob'
+'timms hill'
+'lake michigan'
+'gannett peak'
+mckinley
+'mount mckinley'
+'mckinley mountain'
+'st. elias'
+'mount st. elias'
+'st. elias mountain'
+foraker
+'mount foraker'
+'foraker mountain'
+bona
+'mount bona'
+'bona mountain'
+blackburn
+'mount blackburn'
+'blackburn mountain'
+kennedy
+'mount kennedy'
+'kennedy mountain'
+sanford
+'mount sanford'
+'sanford mountain'
+'south buttress'
+'mount south buttress'
+'south buttress mountain'
+vancouver
+'mount vancouver'
+'vancouver mountain'
+churchill
+'mount churchill'
+'churchill mountain'
+fairweather
+'mount fairweather'
+'fairweather mountain'
+hubbard
+'mount hubbard'
+'hubbard mountain'
+bear
+'mount bear'
+'bear mountain'
+'east buttress'
+'mount east buttress'
+'east buttress mountain'
+hunter
+'mount hunter'
+'hunter mountain'
+alverstone
+'mount alverstone'
+'alverstone mountain'
+'browne tower'
+'mount browne tower'
+'browne tower mountain'
+whitney
+'mount whitney'
+'whitney mountain'
+elbert
+'mount elbert'
+'elbert mountain'
+massive
+'mount massive'
+'massive mountain'
+harvard
+'mount harvard'
+'harvard mountain'
+rainier
+'mount rainier'
+'rainier mountain'
+williamson
+'mount williamson'
+'williamson mountain'
+bianca
+'mount bianca'
+'bianca mountain'
+'la plata'
+'mount la plata'
+'la plata mountain'
+uncompahgre
+'mount uncompahgre'
+'uncompahgre mountain'
+crestone
+'mount crestone'
+'crestone mountain'
+lincoln
+'mount lincoln'
+'lincoln mountain'
+grays
+'mount grays'
+'grays mountain'
+antero
+'mount antero'
+'antero mountain'
+torreys
+'mount torreys'
+'torreys mountain'
+castle
+'mount castle'
+'castle mountain'
+quandary
+'mount quandary'
+'quandary mountain'
+evans
+'mount evans'
+'evans mountain'
+longs
+'mount longs'
+'longs mountain'
+wilson
+'mount wilson'
+'wilson mountain'
+white
+'mount white'
+'white mountain'
+'north palisade'
+'mount north palisade'
+'north palisade mountain'
+shavano
+'mount shavano'
+'shavano mountain'
+belford
+'mount belford'
+'belford mountain'
+princeton
+'mount princeton'
+'princeton mountain'
+'crestone needle'
+'mount crestone needle'
+'crestone needle mountain'
+yale
+'mount yale'
+'yale mountain'
+bross
+'mount bross'
+'bross mountain'
+'kit carson'
+'mount kit carson'
+'kit carson mountain'
+wrangell
+'mount wrangell'
+'wrangell mountain'
+shasta
+'mount shasta'
+'shasta mountain'
+sill
+'mount sill'
+'sill mountain'
+'el diente'
+'mount el diente'
+'el diente mountain'
+maroon
+'mount maroon'
+'maroon mountain'
+superior
+'lake superior'
+'superior lake'
+huron
+'lake huron'
+'huron lake'
+michigan
+'lake michigan'
+'michigan lake'
+erie
+'lake erie'
+'erie lake'
+ontario
+'lake ontario'
+'ontario lake'
+'great salt lake'
+'lake great salt lake'
+'great salt lake lake'
+'lake of the woods'
+'lake lake of the woods'
+'lake of the woods lake'
+iliamna
+'lake iliamna'
+'iliamna lake'
+okeechobee
+'lake okeechobee'
+'okeechobee lake'
+pontchartrain
+'lake pontchartrain'
+'pontchartrain lake'
+becharof
+'lake becharof'
+'becharof lake'
+red
+'lake red'
+'red lake'
+'st. clair'
+'lake st. clair'
+'st. clair lake'
+champlain
+'lake champlain'
+'champlain lake'
+rainy
+'lake rainy'
+'rainy lake'
+'salton sea'
+'lake salton sea'
+'salton sea lake'
+teshekpuk
+'lake teshekpuk'
+'teshekpuk lake'
+naknek
+'lake naknek'
+'naknek lake'
+winnebago
+'lake winnebago'
+'winnebago lake'
+'mille lacs'
+'lake mille lacs'
+'mille lacs lake'
+flathead
+'lake flathead'
+'flathead lake'
+tahoe
+'lake tahoe'
+'tahoe lake'

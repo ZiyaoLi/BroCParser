@@ -1,0 +1,387 @@
+'new york'
+alabama
+alabama
+alabama
+alabama
+alabama
+alaska
+arizona
+arizona
+arizona
+arizona
+arizona
+arizona
+arkansas
+arkansas
+arkansas
+california
+california
+california
+california
+california
+california
+california
+california
+california
+california
+california
+california
+california
+california
+california
+california
+california
+california
+california
+california
+california
+california
+california
+california
+california
+california
+california
+california
+california
+california
+california
+california
+california
+california
+california
+california
+california
+california
+california
+california
+california
+california
+california
+california
+california
+california
+california
+california
+california
+california
+california
+california
+california
+california
+california
+california
+california
+california
+california
+california
+california
+california
+california
+california
+california
+california
+california
+california
+california
+california
+california
+colorado
+colorado
+colorado
+colorado
+colorado
+colorado
+colorado
+colorado
+connecticut
+connecticut
+connecticut
+connecticut
+connecticut
+connecticut
+connecticut
+connecticut
+connecticut
+connecticut
+connecticut
+connecticut
+delaware
+'district of columbia'
+florida
+florida
+florida
+florida
+florida
+florida
+florida
+florida
+florida
+florida
+florida
+florida
+florida
+florida
+florida
+georgia
+georgia
+georgia
+georgia
+georgia
+hawaii
+hawaii
+hawaii
+idaho
+illinois
+illinois
+illinois
+illinois
+illinois
+illinois
+illinois
+illinois
+illinois
+illinois
+illinois
+illinois
+illinois
+illinois
+illinois
+indiana
+indiana
+indiana
+indiana
+indiana
+indiana
+indiana
+indiana
+indiana
+iowa
+iowa
+iowa
+iowa
+iowa
+iowa
+kansas
+kansas
+kansas
+kansas
+kentucky
+kentucky
+louisiana
+louisiana
+louisiana
+louisiana
+louisiana
+louisiana
+louisiana
+louisiana
+maine
+maryland
+maryland
+maryland
+maryland
+massachusetts
+massachusetts
+massachusetts
+massachusetts
+massachusetts
+massachusetts
+massachusetts
+massachusetts
+massachusetts
+massachusetts
+massachusetts
+massachusetts
+massachusetts
+massachusetts
+massachusetts
+massachusetts
+michigan
+michigan
+michigan
+michigan
+michigan
+michigan
+michigan
+michigan
+michigan
+michigan
+michigan
+michigan
+michigan
+michigan
+michigan
+michigan
+michigan
+michigan
+michigan
+michigan
+michigan
+michigan
+michigan
+michigan
+minnesota
+minnesota
+minnesota
+minnesota
+minnesota
+mississippi
+missouri
+missouri
+missouri
+missouri
+missouri
+missouri
+montana
+montana
+nebraska
+nebraska
+nevada
+nevada
+'new hampshire'
+'new hampshire'
+'new jersey'
+'new jersey'
+'new jersey'
+'new jersey'
+'new jersey'
+'new jersey'
+'new jersey'
+'new jersey'
+'new jersey'
+'new jersey'
+'new jersey'
+'new jersey'
+'new jersey'
+'new jersey'
+'new mexico'
+'new york'
+'new york'
+'new york'
+'new york'
+'new york'
+'new york'
+'new york'
+'new york'
+'new york'
+'new york'
+'new york'
+'new york'
+'new york'
+'new york'
+'north carolina'
+'north carolina'
+'north carolina'
+'north carolina'
+'north carolina'
+'north carolina'
+'north carolina'
+'north dakota'
+ohio
+ohio
+ohio
+ohio
+ohio
+ohio
+ohio
+ohio
+ohio
+ohio
+ohio
+ohio
+ohio
+ohio
+ohio
+ohio
+oklahoma
+oklahoma
+oklahoma
+oklahoma
+oregon
+oregon
+oregon
+pennsylvania
+pennsylvania
+pennsylvania
+pennsylvania
+pennsylvania
+pennsylvania
+pennsylvania
+pennsylvania
+pennsylvania
+pennsylvania
+pennsylvania
+pennsylvania
+pennsylvania
+'rhode island'
+'rhode island'
+'rhode island'
+'rhode island'
+'south carolina'
+'south carolina'
+'south carolina'
+'south carolina'
+'south dakota'
+tennessee
+tennessee
+tennessee
+tennessee
+texas
+texas
+texas
+texas
+texas
+texas
+texas
+texas
+texas
+texas
+texas
+texas
+texas
+texas
+texas
+texas
+texas
+texas
+texas
+texas
+texas
+texas
+texas
+texas
+texas
+texas
+texas
+texas
+texas
+texas
+utah
+utah
+utah
+utah
+virginia
+virginia
+virginia
+virginia
+virginia
+virginia
+virginia
+virginia
+virginia
+virginia
+virginia
+washington
+washington
+washington
+washington
+'west virginia'
+'west virginia'
+wisconsin
+wisconsin
+wisconsin
+wisconsin
+wisconsin
+wisconsin
+wisconsin
+wyoming
